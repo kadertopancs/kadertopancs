@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Kader 👋
 
-<!--
-**kadertopancs/kadertopancs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer | QA Automation (SDET) Candidate  
 
-Here are some ideas to get you started:
+I build structured real-world simulation systems using Java.  
+Focused on validation logic, system design and scalable architecture.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Current Focus
+- Core Java
+- Data Structures & Logic Design
+- QA Automation (SDET Path)
+- Port Operation Simulation System
+
+---
+
+## 🧠 Interests
+- Test Automation
+- Backend System Design
+- Process Validation & Control Logic
+- Scalable System Architecture
+
+---
+
+## 📌 Goal
+To become a highly skilled QA Automation Engineer building reliable and intelligent systems.
