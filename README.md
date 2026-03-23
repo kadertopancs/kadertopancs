@@ -1,27 +1,21 @@
 # Hi, I'm Kader 👋
 
-Software Engineer | QA Automation (SDET) Candidate  
+Software Engineer | QA Automation (SDET) Focused  
 
-I build structured real-world simulation systems using Java.  
-Focused on validation logic, system design and scalable architecture.
+With a solid background in software and educational technologies, I develop structured Java applications and continuously refine my backend logic and automation capabilities.
 
----
-
-## 🚀 Current Focus
-- Core Java
-- Data Structures & Logic Design
-- QA Automation (SDET Path)
-- Port Operation Simulation System
+Currently strengthening my expertise in OOP principles, methods, collections (ArrayList, Set), and clean, maintainable system design.
 
 ---
 
-## 🧠 Interests
-- Test Automation
-- Backend System Design
-- Process Validation & Control Logic
-- Scalable System Architecture
+## 🚀 Technical Focus
+- Core Java & OOP
+- Structured method design
+- Collections (ArrayList, Set, basic Map)
+- Backend-oriented problem solving
+- QA Automation foundations
 
 ---
 
-## 📌 Goal
-To become a highly skilled QA Automation Engineer building reliable and intelligent systems.
+## 🎯 Professional Direction
+Building reliable, well-structured automation solutions supported by strong programming fundamentals and system thinking.
