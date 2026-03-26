@@ -1,21 +1,16 @@
 # Hi, I'm Kader 👋
 
-Software Engineer | QA Automation (SDET) Focused  
+Software Engineer | QA Automation & Backend-Focused Developer
 
-With a solid background in software and educational technologies, I develop structured Java applications and continuously refine my backend logic and automation capabilities.
+I develop structured Java applications with a strong focus on object-oriented design and clean system architecture.  
+My work is centered on logical problem solving, modular development, and scalable backend thinking.
 
-Currently strengthening my expertise in OOP principles, methods, collections (ArrayList, Set), and clean, maintainable system design.
+## 🔹 Technical Focus
+- Core Java & Object-Oriented Programming
+- Class design and modular package structuring
+- Collections Framework (ArrayList, Set, Map)
+- Clean, maintainable code practices
+- Automation-oriented backend logic
 
----
-
-## 🚀 Technical Focus
-- Core Java & OOP
-- Structured method design
-- Collections (ArrayList, Set, basic Map)
-- Backend-oriented problem solving
-- QA Automation foundations
-
----
-
-## 🎯 Professional Direction
-Building reliable, well-structured automation solutions supported by strong programming fundamentals and system thinking.
+## 🔹 Professional Direction
+Expanding my expertise in test automation while building robust backend foundations and system-level thinking.
