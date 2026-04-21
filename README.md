@@ -1,6 +1,6 @@
 # Hi, I'm Kader 👋
 
-Software Test Automation Engineer (SDET) | Java | Building automation skills
+QA | Software Test Automation Engineer
 
 ## 🚀 About Me
 - Developing Java-based applications and improving problem-solving skills
