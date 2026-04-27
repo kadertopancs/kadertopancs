@@ -9,9 +9,16 @@ QA | Software Test Automation Engineer
 
 ## 🛠 Tech Stack
 - Java
+- OOP
+- Collections Framework
 - SQL
 - Git & GitHub
-- SDLC & Agile
+- IntelliJ IDEA
+- Maven
+- Selenium (Learning)
+- REST API Testing (Learning)
+- SDLC & Agile / Scrum
+- Jira
 
 ## 🎯 Focus
 - Core Java & OOP
