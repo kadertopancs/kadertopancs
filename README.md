@@ -15,7 +15,7 @@ QA | Software Test Automation Engineer
 - Git & GitHub
 - IntelliJ IDEA
 - Maven
-- Selenium (Learning)
+- Selenium
 - REST API Testing (Learning)
 - SDLC & Agile / Scrum
 - Jira
