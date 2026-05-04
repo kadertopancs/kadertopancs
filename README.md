@@ -16,9 +16,7 @@ QA | Software Test Automation Engineer
 - IntelliJ IDEA
 - Maven
 - Selenium
-- REST API Testing (Learning)
 - SDLC & Agile / Scrum
-- Jira
 
 ## 🎯 Focus
 - Core Java & OOP
@@ -27,4 +25,4 @@ QA | Software Test Automation Engineer
 - Test Automation Fundamentals
 
 ## 🔄 Currently
-Working on Java projects and preparing for test automation (Selenium, API testing)
+Working on Java projects and preparing for test automation (Selenium)
