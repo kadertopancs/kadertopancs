@@ -1,11 +1,15 @@
 # Hi, I'm Kader 👋
 
-QA | Software Test Automation Engineer
+## QA | Software Test Automation Engineer
+
+---
 
 ## 🚀 About Me
-- Developing Java-based applications and improving problem-solving skills
-- Building a strong foundation for test automation
-- Writing clean, maintainable, and testable code
+
+- Passionate about Software Testing and Test Automation
+- Improving my skills in Java, Selenium, SQL, and REST API Testing
+- Focused on building clean, maintainable, and scalable test automation projects
+- Interested in SDLC, Agile, and Quality Assurance processes
 
 ## 🛠 Tech Stack
 - Java
@@ -18,11 +22,15 @@ QA | Software Test Automation Engineer
 - Selenium
 - SDLC & Agile / Scrum
 
-## 🎯 Focus
-- Core Java & OOP
-- Data Structures & Collections
-- Algorithmic Thinking
-- Test Automation Fundamentals
+## 🎯 Current Focus
 
-## 🔄 Currently
-Working on Java projects and preparing for test automation (Selenium)
+- Test Automation Frameworks
+- API Testing
+- Object-Oriented Programming (OOP)
+- Automation Project Development
+- Real-world QA Projects
+  
+
+## 📫 Contact
+
+- GitHub: kadertopancs
