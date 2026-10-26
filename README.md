@@ -4,7 +4,7 @@
 
 ### MSc in Software Engineering
 
-**Java Developer · SQL · Software Engineering**
+**Java Developer  · C# · SQL · Software Engineering**
 
 [Portfolio](https://kadertopancs.github.io/) •
 [Projects](https://github.com/kadertopancs/java-course-project) •
